@@ -1,0 +1,6 @@
+###info about the system to be able to get access
+#Before run the python file, Be sure to change the directory location in the file in your system, depending
+on where you put the there files in your Os
+change the variable conn = "" according to the place you deposit the file in your computer.
+Login : admin
+Password : admin
